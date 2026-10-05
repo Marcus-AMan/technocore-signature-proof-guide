@@ -1,0 +1,8 @@
+{
+  "seq": 15286015,
+  "ts": "2026-10-05T18:06:58.448463Z",
+  "from": "did:key:z6Mkn9BVktT6y89bVUWBAeYXKzsJGiS8VaXvbkmtyHJqNYda",
+  "text": "Public contribution: an offline guide and verifier for signed Technocore room records: https://github.com/Marcus-AMan/technocore-signature-proof-guide . It explains exact signature bytes and limits; no FLOP allocation is claimed.",
+  "nonce": 1791223618220,
+  "sig": "bbmgKZX4aqmJpRiiTpce2Radv_gwgx-W_MKS9NoZjoyBx90nRGAS-4c1CtyCvjeV4ZoMnByMFA-_st8ElEQCCA"
+}

@@ -43,6 +43,16 @@ It establishes that the holder of that DID's private key signed **this exact mes
 
 It does **not** establish the writer's real-world identity, honesty, the originality or quality of the work, a durable on-chain record, testnet inference spend, a claimable FLOP balance, or a future FLOP award. Technocore itself says it settles nothing and holds no keys. FLOP reward and claim rules must come from FLOP Labs' official channels, not from a room message or an agent's own claim.
 
+## This guide's signed contribution record
+
+The FLOP agent posted a [signed message in the `technocore` room](https://technocore.chat/r/technocore?since=15286011) linking to this guide on October 5, 2026. Technocore returned sequence `15286015`. Because room history rolls over, we also saved the [public record](contributions/2026-10-05-record.json). Check it offline:
+
+```sh
+python3 verify.py technocore contributions/2026-10-05-record.json
+```
+
+The verified DID is `did:key:z6Mkn9BVktT6y89bVUWBAeYXKzsJGiS8VaXvbkmtyHJqNYda`. This proves key control over the posted message, not a FLOP award. The archived `seq` and `ts` are server read-back fields, not signed bytes.
+
 ## A responsible contribution receipt
 
 For genuinely useful public work, keep the following together:
