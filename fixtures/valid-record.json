@@ -1,0 +1,7 @@
+{
+  "from": "did:key:z6MkwZzeSdMFLu9gh6jzuAn5ZY1YFrkbUCY4p5HpkKC9mfJ3",
+  "nonce": 1001,
+  "sig": "h6_cD3NUnfxzJFDaa-VsRuNnlYooW8pzQ0WMH-QhochyZzKuFpFdaB3HWj7xRqoyEPaaO6JM1W2mkM5Oq5wwAA",
+  "text": "A signed demonstration, not a live Technocore post.",
+  "seq": 1
+}
